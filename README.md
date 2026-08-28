@@ -5,12 +5,16 @@
 # Tabla de Contenidos
 - [¿Qué es GNUM-Modelica?](#qué-es-gnum-modelica)
 - [¿Qué hace único a Modelica?](#qué-hace-único-a-modelica)
-- [📁 Estructura del Repositorio](#-estructura-del-repositorio)
-- [💻 OpenModelica en distintos Sistemas Operativos o IDEs](#-openmodelica-en-distintos-sistemas-operativos-o-ides)
-  - [Windows](#windows)
-  - [Linux](#linux)
-  - [WSL](#wsl)
+  - [Ejemplo: Modelo Masa Resorte Amortiguador](#ejemplo-modelo-masa-resorte-amortiguador)
+  - [¿Qué significa la Acausalidad en Modelica?](#qué-significa-la-acausalidad-en-modelica)
+  - [¿Puedo modelar algo que no sea mecánica?](#puedo-modelar-algo-que-no-sea-mecánica)
+- [📁 Estructura del Repositorio](#estructura-del-repositorio)
+- [OpenModelica](#openmodelica)
+  - [Más allá de Modelica](#más-allá-de-modelica)
+
+
 ---
+
 # ¿Qué es GNUM-Modelica?
 La idea del presente repositorio busca responder una pregunta en concreto:
 **Cómo puede ser usado Modelica como un lenguaje computacional para modelación matemática, simulación y experimentación númerica en Ingeniería**
@@ -23,6 +27,7 @@ Una de las propiedades más interesantes de Modelica es su capacidad para trabaj
 
 ### Ejemplo: Modelo Masa Resorte Amortiguador
 El siguiente modelo puede ser descrito por la ecuación diferencial.
+
 $$m\ddot{x}+c\dot{x}+kx=F(x)$$
 
 
