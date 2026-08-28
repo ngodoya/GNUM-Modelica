@@ -45,4 +45,4 @@ annotation(
 end Fluidos_Friccion;
 ```
 ## Resultados
-![alt text](images/res.png)
+![alt text](images/fluid_friction.png)
