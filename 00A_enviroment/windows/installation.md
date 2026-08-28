@@ -1,0 +1,6 @@
+OpenModelica en Windows
+
+### Instalación Windows
+En el apartado [Download](https://openmodelica.org/download/download-windows/) puede visualizar la instalación para Windows, también está para Linux, Mac, Maquinas Virtuales e incluso otros sistemas operativos, por el momento el enfoque será en el Sistema Operativo de Windows y Linux, en el mismo apartado se pueden ver distintas versiones del sistema, es recomendable instalar la versión **Oficial Release** debido a que ya tiene todas las carácteristicas se encuentran validadas.
+A fecha de hoy el sistema se encuentra en su versión 1.27, la cual solo esta disponible para 64 Bits (teniendo en cuenta el avance en la memoria RAM y la exigencía del mercado actual), el archivo a descargar será el conocido con el nombre: `OpenModelica-v1.**.0-64bit.exe` donde ``**`` corresponde a la última versión disponible del sistema. Una vez descargado el archivo .exe se procede con su instalación.
+Puede que salten algunas alertas de seguridad desde Windows, para casos como estos ignore las alertas de seguridad, usualmente el antivirus de Windows suele tener varias confusiones para lo mismo
