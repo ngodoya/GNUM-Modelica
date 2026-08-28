@@ -6,8 +6,8 @@ Instalar utilizando las siguientes extensiones:
 - **ModelScript** (permite edición de diagramas y simulación)
 - **Modelica Language Server** (Oficial de OpenModelica)
 ### Windows
-Sí desea conocer como instalar [OpenModelica en Windows](00A_enviroment/windows/installation.md) puede hacerlo atraves del enlace anterior.
+Sí desea conocer como instalar [OpenModelica en Windows](../00A_enviroment/windows/installation.md) puede hacerlo atraves del enlace anterior.
 ### Linux
-Sí desea conocer como instalar [OpenModelica en Linux](00A_enviroment/linux/installation.md) puede hacerlo atraves del enlace anterior.
+Sí desea conocer como instalar [OpenModelica en Linux](../00A_enviroment/linux/installation.md) puede hacerlo atraves del enlace anterior.
 ### WSL
-Sí desea conocer como instalar [OpenModelica en WSL](00A_enviroment/wsl/installation.md) puede hacerlo atraves del enlace anterior.
+Sí desea conocer como instalar [OpenModelica en WSL](../00A_enviroment/wsl/installation.md) puede hacerlo atraves del enlace anterior.
